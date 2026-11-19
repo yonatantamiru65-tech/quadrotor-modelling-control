@@ -2,6 +2,12 @@
 
 MATLAB/Simulink coursework for a Parrot Mambo aerial-robotics simulator, including reference generation and plotting scripts.
 
+## Operation demo
+
+[**Watch the operation video on Google Drive**](https://drive.google.com/file/d/199s1xvYWt3SIJxd0tVcgLz9azOk-Mlux/view)
+
+The original MP4 is also hosted on GitHub in the [demo release](https://github.com/yonatantamiru65-tech/quadrotor-modelling-control/releases/tag/demo-v1). Open **Assets** to download `quadrotor-operation-demo.mp4` (28.4 MB).
+
 ## Project contents
 
 | File or folder | Purpose |
